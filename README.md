@@ -1,4 +1,6 @@
-# https://kevinganem.github.io/connect4/
+# CLICK ON THE LINK BELOW TO START PLAYING
+
+### https://kevinganem.github.io/connect4/
 
 # Getting Started with Create React App
 
