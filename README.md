@@ -1,4 +1,4 @@
-# CLICK ON THE LINK BELOW TO START PLAYING
+# Click on the Link Below to Start Playing
 
 ### https://kevinganem.github.io/connect4/
 
